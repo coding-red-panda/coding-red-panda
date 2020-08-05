@@ -15,7 +15,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][StackOverflow]
 
-
+<br />
 ## Tools and Languages
 
 [<img align="left" alt="Ruby Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ruby.svg" />][Ruby]
