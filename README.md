@@ -31,13 +31,11 @@
 [<img align="left" alt="VueJS Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vue-dot-js.svg" />][VueJS]
 [<img align="left" alt="ReactJS Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />][ReactJS]
 [<img align="left" alt="Lua Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/lua.svg" />][Lua]
-
 [<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />][MySQL]
 [<img align="left" alt="Oracle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/oracle.svg" />][Oracle]
 [<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][Docker]
 [<img align="left" alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg" />][Kubernetes]
 [<img align="left" alt="AWS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />][AWS]
-
 [<img align="left" alt="ViualStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudio.svg" />][VisualStudio]
 [<img align="left" alt="Rubymine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jetbrains.svg" />][Rubymine]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][GitHub]
