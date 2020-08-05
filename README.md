@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Become proficient in VueJS and TypeScript
 - ⚡ Fun Fact: I've started a repair business for video game consoles
 
----
+
 ### Connect with me
 
 [<img align="left" alt="https://codingbunny.wordpress.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,7 +16,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][StackOverflow]
 
----
+
 ### Tools and Languages
 
 [<img align="left" alt="Ruby Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ruby.svg" />][Ruby]
@@ -42,7 +42,7 @@
 [<img align="left" alt="Rubymine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jetbrains.svg" />][Rubymine]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][GitHub]
 
----
+
 ### 📚 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -54,7 +54,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## GitHub Stats Card
+### GitHub Stats Card
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coding-bunny)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
