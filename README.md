@@ -8,15 +8,16 @@
 - 🥅 2020 Goals: Become proficient in VueJS and TypeScript
 - ⚡ Fun Fact: I've started a repair business for video game consoles
 
-### Connect with me:
+---
+### Connect with me
 
 [<img align="left" alt="https://codingbunny.wordpress.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@NekoNova" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][StackOverflow]
 
-<br />
-## Tools and Languages
+---
+### Tools and Languages
 
 [<img align="left" alt="Ruby Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ruby.svg" />][Ruby]
 [<img align="left" alt="Rails Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rubyonrails.svg" />][Rails]
@@ -41,7 +42,7 @@
 [<img align="left" alt="Rubymine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jetbrains.svg" />][Rubymine]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][GitHub]
 
-
+---
 ### 📚 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
