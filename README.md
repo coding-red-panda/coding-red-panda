@@ -14,7 +14,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][StackOverflow]
 
-### Tools and Languages
+## Tools and Languages
 
 [<img align="left" alt="Ruby Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ruby.svg" />][Ruby]
 [<img align="left" alt="Rails Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rubyonrails.svg" />][Rails]
@@ -27,6 +27,7 @@
 [<img align="left" alt="TypeScript Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />][TypeScript]
 [<img align="left" alt="VueJS Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vue-dot-js.svg" />][VueJS]
 [<img align="left" alt="ReactJS Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />][ReactJS]
+[<img align="left" alt="Lua Language" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/lua.svg" />][Lua]
 
 [<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />][MySQL]
 [<img align="left" alt="Oracle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/oracle.svg" />][Oracle]
@@ -38,11 +39,13 @@
 [<img align="left" alt="Rubymine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jetbrains.svg" />][Rubymine]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][GitHub]
 
-### Blog Posts
+
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### GitHub Stats Card
+
+## GitHub Stats Card
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coding-bunny)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -63,6 +66,7 @@
 [TypeScript]: https://www.typescriptlang.org/
 [VueJS]: https://vuejs.org/
 [ReactJS]: https://reactjs.org/
+[Lua]: http://www.lua.org/
 
 [MySQL]: https://www.mysql.com/
 [Oracle]: https://www.oracle.com/index.html
