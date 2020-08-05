@@ -45,6 +45,11 @@
 ### 📚 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayStation Account : The Country](https://codingbunny.wordpress.com/2020/05/04/playstation-account-the-country/)
+- [Sixt….](https://codingbunny.wordpress.com/2019/08/22/sixt/)
+- [Can’t take Sixt serious anymore…](https://codingbunny.wordpress.com/2019/08/13/cant-take-sixt-serious-anymore/)
+- [Sixt : Fabricating stories](https://codingbunny.wordpress.com/2019/08/09/sixt-fabricating-stories/)
+- [Sixt sells you insurance that doesn’t cover anything](https://codingbunny.wordpress.com/2019/08/07/sixt-sells-you-insurance-that-doesnt-cover-anything/)
 <!-- BLOG-POST-LIST:END -->
 
 
