@@ -1,6 +1,7 @@
 ### Hi there, I'm Arne - aka [coding-bunny][website]
 
 ## I'm a developer, retro-gamer, and roleplayer
+
 - 🖥️ I'm currently working as a Freelance Software Engineer for [Represent][Represent]
 - 🌱 I'm currently learning more about VueJS and Frontend
 - 🧑🏿‍🤝‍🧑🏽 I'm always looking to help someone on their project
@@ -13,6 +14,7 @@
 [<img align="left" alt="@NekoNova" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][StackOverflow]
+
 
 ## Tools and Languages
 
