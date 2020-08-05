@@ -8,14 +8,12 @@
 - 🥅 2020 Goals: Become proficient in VueJS and TypeScript
 - ⚡ Fun Fact: I've started a repair business for video game consoles
 
-
 ### Connect with me
 
 [<img align="left" alt="https://codingbunny.wordpress.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@NekoNova" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][StackOverflow]
-
 
 ### Tools and Languages
 
@@ -61,7 +59,6 @@
 [Twitter]: https://twitter.com/NekoNova
 [LinkedIn]: https://www.linkedin.com/in/arnedeherdt/
 [StackOverflow]: https://stackoverflow.com/users/518500/codingbunny
-
 [Ruby]: https://www.ruby-lang.org/en/
 [Rails]: https://rubyonrails.org/
 [Scala]: https://www.scala-lang.org/
@@ -74,13 +71,11 @@
 [VueJS]: https://vuejs.org/
 [ReactJS]: https://reactjs.org/
 [Lua]: http://www.lua.org/
-
 [MySQL]: https://www.mysql.com/
 [Oracle]: https://www.oracle.com/index.html
 [Docker]: https://www.docker.com/
 [Kubernetes]: https://kubernetes.io/
 [AWS]: https://aws.amazon.com/
 [GitHub]: https://github.com/coding-bunny
-
 [VisualStudio]: https://visualstudio.microsoft.com/
 [Rubymine]: https://www.jetbrains.com/ruby/
