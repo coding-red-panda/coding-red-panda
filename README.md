@@ -1,4 +1,4 @@
-### Hi there, I'm Arne - aka [coding-bunny][website]
+### Hi there, I'm Arne
 
 ## I'm a developer, retro-gamer, and roleplayer
 
