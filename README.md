@@ -53,7 +53,7 @@
 
 ### GitHub Stats Card
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coding-red-panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coding-red-panda&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 This card was generated through the [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) project.
 Check it out if you want to generate the same thing on your own profile.
